@@ -1,13 +1,21 @@
-WIDS-project-AI-for-driving-
-                                                                                                Project Repository
-Assignments & Progress
-Week | Topic | Description | Status |
-Week 1 | Python Basics| Introduction to Python syntax, loops, functions, and logical problem solving. | Completed |
-Week 2 | Data Analysis | Exploratory Data Analysis (EDA) using Pandas and NumPy. Handling datasets and cleaning data. | Completed |
-Week 3 | Machine Learning | Introduction to classical ML algorithms (Linear/Logistic Regression). | Completed |
-Week 4 | Neural Networks | Building ANNs and CNNs using TensorFlow/Keras for image classification (MNIST). |Completed |
+## WIDS-Project-AI-for-driving-Report
+# Week -1
+I have studied the basics of the Python programming language to build a strong foundation. This included an introduction to Python syntax and learning how to implement core programming concepts such as loops, functions, and logical problem-solving structures. I practiced applying these concepts to solve algorithmic problems efficiently.
 
-Tech Stack
-Languages:Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras
-Tools: Google Colab, Jupyter Notebooks
+# Week -2
+I have focused on Data Analysis, specifically learning Exploratory Data Analysis (EDA). I utilized the Pandas and NumPy libraries to efficiently read, handle, and analyze input data. My work involved cleaning datasets and performing operations to prepare the data for accurate modeling.
+
+# Week -3
+I have transitioned into Machine Learning, covering the introduction to classical ML algorithms. I studied the theoretical and practical applications of Linear and Logistic Regression. I learned how to use these algorithms to analyze relationships between variables and perform classification tasks.
+
+# Week -4
+I have advanced to Deep Learning concepts, focusing on Neural Networks. I worked on building Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) using the TensorFlow and Keras libraries. I applied these models to image classification tasks, specifically utilizing the MNIST dataset to understand model performance and architecture.
+
+# Tech Stack
+I have utilized a specific set of tools and languages throughout this project:
+
+**Languages: Python
+
+**Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras
+
+**Tools: Google Colab, Jupyter Notebooks
